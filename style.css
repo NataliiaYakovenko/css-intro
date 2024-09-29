@@ -1,3 +1,8 @@
+@font-face {
+    font-family: PlaywriteDEGrund-VariableFont;
+    src: url('./Playwrite_DE_Grund/PlaywriteDEGrund-VariableFont_wght.ttf');
+}
+
 h1 {
     background-color: chocolate;
     font-family: initial;
