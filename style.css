@@ -1,5 +1,7 @@
 h1 {
     background-color: chocolate;
+    font-family: initial;
+    border: inherit; 
 }
 .anottation {
     font-size: 20px;
@@ -7,6 +9,15 @@ h1 {
 
 #Subscribe-btn {
     color: red;
+}
+body {
+    font-family: monospace;
+    border: 5px blue solid;
+    text-align: center;
+}
+a {
+    color: inherit;
+    text-decoration: none;
 }
 
 
