@@ -1,3 +1,22 @@
 h1 {
     background-color: chocolate;
 }
+.anottation {
+    font-size: 20px;
+}
+
+#Subscribe-btn {
+    color: red;
+}
+
+
+/*subscribe-btn :  kebab-case;
+subscribeBtn :   camelCase
+                 lowerCamelCase
+                 UpperCamelCase (PaskalCase)
+                 
+                 subscribe_btn :   snake_case  
+                 I_AM_NATALIIA
+                 */          
+                
+                 
